@@ -1,4 +1,4 @@
-# STFPM 单类别复现记录：MVTec AD carpet
+# STFPM 单类别实验记录：MVTec AD carpet
 
 ## 目标与数据
 
